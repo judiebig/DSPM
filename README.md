@@ -12,7 +12,7 @@ This repo provides a reference implementation of **DSPM** as described in the pa
 
 > Improving Monaural Speech Enhancement with Dynamic Scene Perception Module
 
-> Submitted for review (SPL) 
+> Accpted by ICME, 2022. 
 
 ## data preprosessing
 
